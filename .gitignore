@@ -1,0 +1,24 @@
+# Datos crudos: no se suben (pesados o con condiciones de uso). Ver FUENTES.md para descargarlos.
+data/raw/transfermarkt/
+data/raw/api_football/
+data/raw/validacion/
+
+# Tablas intermedias pesadas (se regeneran con los scripts)
+data/processed/apifootball_transfers.csv
+data/processed/salidas_clasificadas.csv
+data/processed/work/
+
+# Claves y entornos
+.env
+*.key
+kaggle.json
+
+# Python y notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

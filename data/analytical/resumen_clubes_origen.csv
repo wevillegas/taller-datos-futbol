@@ -1,0 +1,90 @@
+club_origen_id,club_origen,categoria_origen,jugadores_exportados,edad_mediana_salida,valor_total_salida_eur,monto_total_pases_eur,pct_a_europa,pct_regreso_3a
+435.0,River Plate,Primera,122,23.7,186100000.0,152640000.0,17.2,46.7
+453.0,Independiente,Primera,105,24.35,106725000.0,50515000.0,8.6,53.3
+436.0,Racing Club,Primera,100,23.7,117300000.0,62710000.0,21.0,43.0
+438.0,Velez Sarsfield,Primera,95,23.05,146000000.0,92590000.0,24.2,54.7
+451.0,Boca Juniors,Primera,91,25.0,90475000.0,8570000.0,19.8,58.2
+460.0,San Lorenzo,Primera,90,24.4,83350000.0,35985000.0,8.9,54.4
+458.0,Argentinos JRS,Primera,84,23.5,51550000.0,24295000.0,11.9,51.2
+457.0,Newells Old Boys,Primera,83,24.6,50700000.0,20790000.0,9.6,47.0
+450.0,Estudiantes L.P.,Primera,81,24.0,67900000.0,32430000.0,17.3,49.4
+446.0,Lanus,Primera,78,24.3,46625000.0,35880000.0,10.3,62.8
+442.0,Defensa Y Justicia,Primera,68,25.7,30650000.0,10200000.0,11.8,66.2
+439.0,Godoy Cruz,Primera,65,24.25,36600000.0,18366000.0,7.7,58.5
+437.0,Rosario Central,Primera,65,25.05,27275000.0,14335000.0,10.8,49.2
+456.0,Talleres Cordoba,Primera,64,24.5,42550000.0,18450000.0,9.4,62.5
+448.0,Colon Santa Fe,Primera Nacional,63,25.8,21050000.0,9500000.0,6.3,46.0
+445.0,Huracan,Primera,63,24.5,45700000.0,29400000.0,17.5,52.4
+449.0,Banfield,Primera,57,23.7,33150000.0,11410000.0,10.5,45.6
+440.0,Belgrano Cordoba,Primera,50,25.3,24525000.0,21280000.0,12.0,56.0
+452.0,Tigre,Primera,49,24.35,33475000.0,22520000.0,18.4,51.0
+459.0,Arsenal Sarandi,Primera Nacional,45,25.1,15200000.0,4000000.0,22.2,44.4
+441.0,Union Santa Fe,Primera,45,25.35,18725000.0,4250000.0,6.7,46.7
+480.0,Quilmes,Primera Nacional,44,24.7,3425000.0,0.0,11.4,47.7
+434.0,Gimnasia L.P.,Primera,41,25.45,20400000.0,6870000.0,14.6,51.2
+447.0,Chacarita Juniors,Primera Nacional,40,25.0,1625000.0,250000.0,20.0,52.5
+455.0,Atletico Tucuman,Primera,37,26.450000000000003,16400000.0,5540000.0,2.7,29.7
+478.0,Instituto Cordoba,Primera,35,25.0,8700000.0,2527000.0,5.7,48.6
+465.0,Atletico DE Rafaela,Primera Nacional,35,27.6,2450000.0,800000.0,20.0,42.9
+464.0,All Boys,Primera Nacional,33,22.3,8800000.0,11000000.0,0.0,63.6
+444.0,Patronato,Primera Nacional,33,26.7,1900000.0,0.0,3.0,30.3
+1064.0,Platense,Primera,32,24.0,10900000.0,385000.0,9.4,59.4
+461.0,San Martin S.J.,Primera Nacional,32,24.2,2350000.0,0.0,9.4,34.4
+1948.0,Atlanta,Primera Nacional,30,23.75,600000.0,0.0,16.7,63.3
+479.0,Gimnasia Jujuy,Primera Nacional,30,23.25,5000000.0,0.0,0.0,53.3
+474.0,Sarmiento Junin,Primera,28,24.7,1175000.0,0.0,7.1,50.0
+463.0,Aldosivi,Primera Nacional,26,24.4,2400000.0,0.0,3.8,42.3
+484.0,Nueva Chicago,Primera Nacional,25,25.0,1800000.0,0.0,4.0,52.0
+482.0,Almagro,Primera Nacional,25,37.0,50000.0,0.0,4.0,40.0
+454.0,Temperley,Primera Nacional,24,25.5,1950000.0,0.0,12.5,58.3
+473.0,Independ. Rivadavia,Primera,24,28.2,2700000.0,2800000.0,8.3,58.3
+483.0,Los Andes,Primera B Metro,23,20.35,0.0,0.0,0.0,39.1
+472.0,Guillermo Brown,Primera Nacional,23,27.0,0.0,0.0,0.0,56.5
+470.0,Ferro Carril Oeste,Primera Nacional,23,25.1,750000.0,457000.0,8.7,60.9
+1065.0,Central Cordoba de Santiago,Primera,22,26.1,4625000.0,8190000.0,9.1,50.0
+1936.0,CA Estudiantes,Primera Nacional,22,24.8,575000.0,0.0,4.5,59.1
+466.0,Atletico Mitre,Primera Nacional,22,25.6,550000.0,0.0,4.5,45.5
+468.0,Brown DE Adrogue,Primera Nacional,21,23.8,2125000.0,0.0,4.8,52.4
+1962.0,Alvarado,Primera Nacional,20,23.6,900000.0,0.0,5.0,30.0
+8375.0,Almirante Brown,Primera Nacional,20,23.9,2050000.0,0.0,5.0,70.0
+481.0,Villa Dalmine,Primera B Metro,19,21.4,400000.0,0.0,5.3,52.6
+1932.0,San Telmo,Primera Nacional,19,23.2,1175000.0,0.0,5.3,47.4
+1954.0,Deportivo Maipu,Primera Nacional,18,26.0,425000.0,0.0,5.6,38.9
+2424.0,Estudiantes de Rio Cuarto,Primera Nacional,18,25.35,2325000.0,0.0,11.1,50.0
+1957.0,Racing Cordoba,Primera Nacional,18,24.4,175000.0,0.0,0.0,22.2
+469.0,Deportivo Moron,Primera Nacional,18,26.8,5550000.0,47000.0,5.6,61.1
+485.0,San Martin Tucuman,Primera Nacional,18,24.8,650000.0,0.0,11.1,44.4
+2432.0,Barracas Central,Primera,17,27.6,300000.0,0.0,11.8,58.8
+8380.0,Villa San Carlos,Primera B Metro,17,24.7,400000.0,0.0,0.0,47.1
+1965.0,Tristan Suarez,Primera Nacional,16,23.75,400000.0,0.0,0.0,50.0
+8374.0,Fénix,Primera B Metro,16,21.15,75000.0,0.0,6.2,25.0
+2425.0,Acassuso,Primera B Metro,16,27.15,600000.0,0.0,6.2,56.2
+1067.0,Defensores De Belgrano,Primera Nacional,15,,0.0,0.0,0.0,73.3
+1946.0,Chaco For Ever,Primera Nacional,14,19.1,300000.0,0.0,7.1,35.7
+2427.0,Deportivo Armenio,Primera B Metro,14,22.4,275000.0,0.0,0.0,42.9
+1927.0,Talleres Remedios,Primera Nacional,13,23.4,700000.0,0.0,0.0,46.2
+1066.0,Gimnasia M.,Primera Nacional,12,26.6,2225000.0,0.0,8.3,66.7
+8383.0,Deportivo Merlo,Primera B Metro,11,33.5,0.0,0.0,0.0,27.3
+8008.0,Comunicaciones,Primera B Metro,11,26.3,0.0,0.0,0.0,63.6
+1942.0,Sacachispas,Primera B Metro,11,23.049999999999997,775000.0,0.0,0.0,54.5
+8377.0,Colegiales,Primera B Metro,11,33.5,0.0,0.0,0.0,45.5
+471.0,Flandria,Primera B Metro,11,24.85,300000.0,0.0,0.0,27.3
+476.0,Deportivo Riestra,Primera,10,25.6,550000.0,0.0,0.0,60.0
+8379.0,San Miguel,Primera Nacional,10,28.05,2000000.0,0.0,0.0,40.0
+3969.0,Club Atlético Güemes,Primera Nacional,10,28.8,0.0,0.0,0.0,30.0
+8376.0,Argentino Quilmes,Primera B Metro,10,,0.0,0.0,0.0,50.0
+462.0,Agropecuario,Primera Nacional,9,28.700000000000003,425000.0,0.0,22.2,55.6
+1929.0,Deportivo Madryn,Primera Nacional,9,24.9,500000.0,0.0,11.1,44.4
+1928.0,Gimnasia Y Tiro,Primera Nacional,8,,0.0,0.0,0.0,0.0
+1963.0,Midland,Primera B Metro,8,26.6,35000000.0,0.0,12.5,25.0
+1945.0,Defensores Unidos,Primera Nacional,7,25.1,0.0,0.0,0.0,42.9
+8388.0,Sportivo Italiano,Primera B Metro,6,24.8,0.0,0.0,16.7,16.7
+2429.0,Dock Sud,Primera B Metro,6,,0.0,0.0,0.0,33.3
+2430.0,Argentino de Merlo,Primera B Metro,5,,0.0,0.0,0.0,20.0
+1956.0,UAI Urquiza,Primera B Metro,5,,0.0,0.0,0.0,20.0
+1924.0,Deportivo Laferrere,Primera B Metro,3,,0.0,0.0,33.3,33.3
+1947.0,Canuelas,Primera B Metro,3,20.5,0.0,0.0,0.0,66.7
+8387.0,San Martín Burzaco,Primera B Metro,3,,0.0,0.0,0.0,0.0
+8385.0,Excursionistas,Primera B Metro,2,,0.0,0.0,0.0,0.0
+23255.0,Sarmiento de La Banda,Primera B Metro,2,23.8,0.0,0.0,50.0,50.0
+8395.0,Liniers,Primera B Metro,1,28.9,0.0,0.0,0.0,0.0
